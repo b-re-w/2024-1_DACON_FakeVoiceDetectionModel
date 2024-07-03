@@ -161,3 +161,4 @@ cython_debug/
 
 # Dataset
 data/
+audio_cache/
