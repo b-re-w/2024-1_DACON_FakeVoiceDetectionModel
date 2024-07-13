@@ -163,4 +163,4 @@ cython_debug/
 data/
 #audio_cache/
 audio_cache/wespeaker_augmented/train_augmented_embedding.pt
-submission/
+submissions/
